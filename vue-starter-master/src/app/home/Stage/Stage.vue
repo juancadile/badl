@@ -7,12 +7,9 @@
     <vue-grid>
       <vue-grid-row>
         <vue-grid-item class="vueGridItem">
-          <h1 :class="$style.title">vue-starter</h1>
+          <h1 :class="$style.title">Basilica de Lujan</h1>
           <div :class="$style.subTitle">
-            {{
-            $t('App.core.description' /* A flexible, scalable, opinionated boilerplate for production-ready PWAs with
-            focus on performance, development speed, and best practices */)
-            }}
+          <p>Esta es la descripción de la Basilica</p>
           </div>
 
           <a :class="$style.github" href="https://github.com/devCrossNet/vue-starter" target="_blank" rel="noopener"
