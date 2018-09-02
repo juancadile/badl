@@ -3,7 +3,7 @@
     <vue-grid>
       <vue-grid-row>
         <vue-grid-item fill class="vueGridItem">
-          <h2>Development JUANCHO Experience</h2>
+          <h2>Development FEDE Experience</h2>
         </vue-grid-item>
       </vue-grid-row>
       <vue-grid-row>
