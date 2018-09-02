@@ -1,6 +1,6 @@
 <template>
   <div :class="$style.notFound">
-    <vue-grid>
+    <vue-grid> A
       <vue-grid-row>
         <vue-grid-item>
           <h1>404</h1>
